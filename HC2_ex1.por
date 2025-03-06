@@ -13,9 +13,9 @@ programa
 		leia(b)
 
 		se(a > b){
-			escreva(a)
+			escreva("O maior número é: ", a)
 		} senao{
-			escreva(b)
+			escreva("O maior número é: ", b)
 		}
 	}
 }
